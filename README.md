@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guptaashu002
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me guptaashu002@gmail.com
 - 😄 Pronouns: he/him
